@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Payment Failed</title>
+    <script>
+      window.location.href = "https://www.favor-it.co/failed-screen";
+    </script>
+  </head>
+  <body>
+    <h1>Payment Failed!</h1>
+  </body>
+</html>
